@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.gcard": "xml",
+        "*.cpp": "cpp",
+        "*.gxml": "xml",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "string": "cpp",
+        "gst.C": "cpp"
+    }
+}
